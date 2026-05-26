@@ -173,7 +173,7 @@ Dataset.csv
 
 
 Markdown
-![Dashboard Preview](images/dashboard.png)
+![Dashboard Preview](https://github.com/margaretabiodun-oyewuwo/Telecom-Customer-Churn-Analysis/blob/41db8859bb8c0e94ef67bfbe2c5bbc0a9150a417/Teleco%20Customer%20Churn%20Data%20Set/Dashboard.jpeg))
 
 
 Skills Demonstrated
