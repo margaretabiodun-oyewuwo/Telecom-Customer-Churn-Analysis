@@ -173,7 +173,9 @@ Dataset.csv
 
 
 Markdown
-![Dashboard Preview](https://github.com/margaretabiodun-oyewuwo/Telecom-Customer-Churn-Analysis/blob/41db8859bb8c0e94ef67bfbe2c5bbc0a9150a417/Teleco%20Customer%20Churn%20Data%20Set/Dashboard.jpeg))
+![Dashboard Preview](https://github.com/margaretabiodun-oyewuwo/Telecom-Customer-Churn-Analysis/blob/41db8859bb8c0e94ef67bfbe2c5bbc0a9150a417/Teleco%20Customer%20Churn%20Data%20Set/Dashboard.jpeg)
+
+![image alt](https://github.com/margaretabiodun-oyewuwo/Telecom-Customer-Churn-Analysis/blob/62b842ecace05301312a61f425e644a14d22ea35/Churn%20by%20Contract%20Screenshoot.jpeg)
 
 
 Skills Demonstrated
