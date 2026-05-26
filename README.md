@@ -179,6 +179,8 @@ Markdown
 
 ![image alt](https://github.com/margaretabiodun-oyewuwo/Telecom-Customer-Churn-Analysis/blob/f4890121c4c046278c56c2141622a156ea3be1f7/Churn%20by%20Monthly%20Charges%20Screenshoot.jpeg)
 
+![image alt](https://github.com/margaretabiodun-oyewuwo/Telecom-Customer-Churn-Analysis/blob/25ba30bdb046da3c4a5489764b45ce12c3daab5e/Churn%20by%20Payment%20Screenshoot.jpeg)
+
 
 Skills Demonstrated
 
